@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 # Author: Chufuyuan
-# Mail: chufuyuan01@chinatopcredit.com
 # Date: 15/11/6
 
 import random
